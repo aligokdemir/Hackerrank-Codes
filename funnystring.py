@@ -1,5 +1,7 @@
 __author__ = 'ali'
 
+#direct link to the challenge page: https://www.hackerrank.com/challenges/funny-string
+
 testcase = int(raw_input())
 counter = 0
 for i in range (testcase):
